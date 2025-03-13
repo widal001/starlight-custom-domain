@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.32.2",
-    "astro": "^5.1.5",
+    "astro": "https://pkg.pr.new/astro@13420",
     "sharp": "^0.32.5"
   }
 }
