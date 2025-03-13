@@ -4,9 +4,7 @@ import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://widal001.github.io",
-  // Base needs trailing slash to make relative links work when hosting locally
-  base: "starlight-custom-domain/",
+  site: "https://starlight.billydaly.dev",
   integrations: [
     starlight({
       title: "My Docs",
